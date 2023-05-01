@@ -4,7 +4,7 @@ function Footer() {
     return (
         <div className="mx-2 mt-5 text-center">
             <p><i>HAPPY LEARNING</i> 📚️</p>
-            <footer>©️<small>Develeoped by ICTM group</small></footer>
+            <footer>©️<small>Developed by ICTM group</small></footer>
         </div >
     );
 }
