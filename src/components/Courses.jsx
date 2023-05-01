@@ -20,7 +20,7 @@ function Courses() {
 
                             <div className="card shadow-sm">
                                 <div className="card-header">
-                                    <FontAwesomeIcon icon={faRobot} size='5x' className='mb-3' id='robot'></FontAwesomeIcon>
+                                    <FontAwesomeIcon icon={faRobot} size='3x' className='mb-3' id='robot'></FontAwesomeIcon>
                                     <br />
                                     <p>Fundamentals of Artificial intelligence</p>
                                 </div>
@@ -34,7 +34,7 @@ function Courses() {
                         <Link to='/web-programming' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
-                                    <FontAwesomeIcon icon={faLaptopCode} size='5x' className='mb-3' id='laptop'></FontAwesomeIcon>
+                                    <FontAwesomeIcon icon={faLaptopCode} size='3x' className='mb-3' id='laptop'></FontAwesomeIcon>
                                     <br />
                                     <p>Introduction to Web Programming</p>
                                 </div>
@@ -52,7 +52,7 @@ function Courses() {
                         <Link to='/operating-systems' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
-                                    <FontAwesomeIcon icon={faMicrochip} size='5x' className='mb-3' id='microchip'></FontAwesomeIcon>
+                                    <FontAwesomeIcon icon={faMicrochip} size='3x' className='mb-3' id='microchip'></FontAwesomeIcon>
                                     <br />
                                     <p>Operating Systems</p>
                                 </div>
@@ -65,7 +65,7 @@ function Courses() {
                         <Link to='/information-system-management' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
-                                    <FontAwesomeIcon icon={faSitemap} size='5x' className='mb-3' id='sitemap'></FontAwesomeIcon>
+                                    <FontAwesomeIcon icon={faSitemap} size='3x' className='mb-3' id='sitemap'></FontAwesomeIcon>
                                     <br />
                                     <p>Information System Management</p>
                                 </div>
@@ -80,7 +80,7 @@ function Courses() {
                         <Link to='/collaborative-networks' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
-                                    <FontAwesomeIcon icon={faPeopleGroup} size='5x' className='
+                                    <FontAwesomeIcon icon={faPeopleGroup} size='3x' className='
                                     mb-3' id='people'></FontAwesomeIcon>
                                     <br />
                                     <p>Collaborative networks and facilitating technologies</p>

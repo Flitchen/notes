@@ -4,13 +4,13 @@ function Home() {
     return (
         <>
 
-            <div className="container-fluid mt-3 mx-2  mb-5 w-100" >
+            <div className="container mt-3 mx-auto mb-5" >
                 <p className='mb-3 d-flex lead ' >
                     Hello and welcome to the ICT-M Notes website.
                 </p>
-                <div className="display-5 my-5 text-muted text-center">Click Courses on the navbar above to view the courses available</div>
 
             </div >
+            <p className="display-5 my-5 text-muted text-center">Click Courses on the navbar above to view the courses available</p>
 
         </>
     );
