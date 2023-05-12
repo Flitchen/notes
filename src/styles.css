@@ -17,3 +17,19 @@
 #people {
     color: rgb(156, 155, 155);
 }
+
+#sad-face {
+    animation: spin 1s linear;
+}
+
+@keyframes spin {
+    from {
+        transform: rotate(0deg);
+        margin-right: 400px;
+    }
+
+    to {
+        transform: rotate(360deg);
+        margin-right: 0px;
+    }
+}

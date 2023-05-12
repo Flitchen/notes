@@ -16,7 +16,7 @@ function Courses() {
             <div className="container my-5 mx-auto  text-center p-2 pb-4" >
                 <div className="row d-flex justify-content-around mx-auto">
                     <div className="mb-4 col-md-5">
-                        <Link to='/artificial-intelligence' className='text-decoration-none text-dark'>
+                        <Link to='/courses/artificial-intelligence' className='text-decoration-none text-dark'>
 
                             <div className="card shadow-sm">
                                 <div className="card-header">
@@ -31,7 +31,7 @@ function Courses() {
 
 
                     <div className="mb-4 col-md-5">
-                        <Link to='/web-programming' className='text-decoration-none text-dark'>
+                        <Link to='web-programming' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
                                     <FontAwesomeIcon icon={faLaptopCode} size='3x' className='mb-3' id='laptop'></FontAwesomeIcon>
@@ -49,7 +49,7 @@ function Courses() {
                 <div className="row d-flex justify-content-around mx-auto">
 
                     <div className="mb-4 col-md-5">
-                        <Link to='/operating-systems' className='text-decoration-none text-dark'>
+                        <Link to='operating-systems' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
                                     <FontAwesomeIcon icon={faMicrochip} size='3x' className='mb-3' id='microchip'></FontAwesomeIcon>
@@ -62,7 +62,7 @@ function Courses() {
                     </div>
 
                     <div className="mb-4 col-md-5">
-                        <Link to='/information-system-management' className='text-decoration-none text-dark'>
+                        <Link to='information-system-management' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
                                     <FontAwesomeIcon icon={faSitemap} size='3x' className='mb-3' id='sitemap'></FontAwesomeIcon>
@@ -77,7 +77,7 @@ function Courses() {
 
                 <div className="row d-flex justify-content-around mx-auto">
                     <div className="mb-3  col-md-5 ">
-                        <Link to='/collaborative-networks' className='text-decoration-none text-dark'>
+                        <Link to='collaborative-networks' className='text-decoration-none text-dark'>
                             <div className="card shadow-sm">
                                 <div className="card-header">
                                     <FontAwesomeIcon icon={faPeopleGroup} size='3x' className='
@@ -93,6 +93,8 @@ function Courses() {
 
 
                 </div>
+
+
             </div>
             <Footer />
         </>
