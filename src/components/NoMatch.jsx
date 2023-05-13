@@ -13,7 +13,7 @@ function NoMatch() {
             <p className="display-2">Page not found
             </p>
             <FontAwesomeIcon icon={faFaceFrown} size='4x' className='mt-5 text-dark' id='sad-face'></FontAwesomeIcon>
-            <button className='btn btn-outline-dark mt-5' onClick={handleNoMatch}>Go to Home Page</button>
+            <button className='btn btn-outline-dark mt-5 mb-3' onClick={handleNoMatch}>Go to Home Page</button>
         </div>
     );
 }
