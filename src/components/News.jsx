@@ -12,7 +12,7 @@ function News() {
             < div class="alert alert-danger mt-3 text-center">
                 Deadline for submitting group assignment of Information System Management will be on <u>2<sup>nd</sup> June 2023</u>
             </div>
-            < div class="alert alert-info mt-3 text-center">
+            < div class="alert alert-danger mt-3 text-center">
                 Deadline for submitting group assignment of Information System Management will be on <u>15<sup>th</sup> May 2023</u>. The assignment should be done with not more than 4 people
             </div>
 
