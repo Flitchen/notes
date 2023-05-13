@@ -14,13 +14,13 @@ export default function App() {
 
       <Routes>
         <Route path='/' element={<Home />} />
-        <Route path='courses' element={<Courses />} />
+        {/* <Route path='courses' element={<Courses />} />
 
         <Route path='courses/artificial-intelligence' element={<ArtificialIntelligence />} />
         <Route path='courses/web-programming' element={<WebProgramming />} />
         <Route path='courses/operating-systems' element={<OperatingSystems />} />
         <Route path='courses/information-system-management' element={<InformationSystemManagement />} />
-        <Route path='courses/collaborative-networks' element={<CollaborativeNetworks />} />
+        <Route path='courses/collaborative-networks' element={<CollaborativeNetworks />} /> */}
 
         <Route path='news' element={<News />} />
         <Route path='assignments' element={<Assignments />} />

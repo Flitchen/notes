@@ -19,9 +19,10 @@ function Navbar() {
                                 <Link to="/" class="nav-link"><FontAwesomeIcon icon={faHome} size='1x' className='mx-2'></FontAwesomeIcon>Home</Link>
                             </li>
 
-                            <li class="nav-item">
+                            {/* <li class="nav-item">
                                 <Link to="/courses" class="nav-link"><FontAwesomeIcon icon={faBookOpen} size='1x' className='mx-2'></FontAwesomeIcon>Courses</Link>
-                            </li>
+                            </li> */}
+
                             <li class="nav-item">
                                 <Link to="/news" class="nav-link"><FontAwesomeIcon icon={faNewspaper} size='1x' className='mx-2'></FontAwesomeIcon>News</Link>
                             </li>
