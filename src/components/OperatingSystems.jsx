@@ -6,6 +6,7 @@ function OperatingSystems() {
         <>
             <div className="h4 text-center my-5">Operating Systems</div>
             <div className="list-group list-group-numbered list-group-flush mx-5 mb-3">
+                <div className="display-6 text-muted text-center mb-2">Slides and Pdfs</div>
                 <a href="Lecture_1.ppt" class="list-group-item list-group-item-action">Operating Systems</a>
                 <a href="Lecture_2_today-1.ppt" class="list-group-item list-group-item-action">Architectural Support for OS</a>
                 <a href="Lecture_3_today-1.ppt" class="list-group-item list-group-item-action">OS Components and structure</a>

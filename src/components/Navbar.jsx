@@ -14,14 +14,14 @@ function Navbar() {
                         <span class="navbar-toggler-icon"></span>
                     </button>
                     <div class="collapse navbar-collapse  justify-content-sm-end me-3" id="collapsibleNavbar">
-                        <ul class="navbar-nav text-center ">
+                        <ul class="navbar-nav text-center">
                             <li class="nav-item">
                                 <Link to="/" class="nav-link"><FontAwesomeIcon icon={faHome} size='1x' className='mx-2'></FontAwesomeIcon>Home</Link>
                             </li>
 
-                            {/* <li class="nav-item">
+                            <li class="nav-item">
                                 <Link to="/courses" class="nav-link"><FontAwesomeIcon icon={faBookOpen} size='1x' className='mx-2'></FontAwesomeIcon>Courses</Link>
-                            </li> */}
+                            </li>
 
                             <li class="nav-item">
                                 <Link to="/news" class="nav-link"><FontAwesomeIcon icon={faNewspaper} size='1x' className='mx-2'></FontAwesomeIcon>News</Link>

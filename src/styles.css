@@ -18,6 +18,10 @@
     color: rgb(156, 155, 155);
 }
 
+#footer {
+    background: #000;
+}
+
 #sad-face {
     animation: spin 1s linear;
 }
