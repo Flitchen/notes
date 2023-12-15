@@ -12,6 +12,9 @@ ICTM-Notes is a web-based platform designed to centralize and organize study mat
 
 It allows students and class representatives to access and download notes, lectures, presentations, and other study resources categorized by course.
 
+## Getting Started
+
+Visit [https://ictmnotes.netlify.app](https://ictmnotes.netlify.app/) to get access to the available studying materials.
 
 ## Run Locally
 
@@ -47,14 +50,14 @@ To deploy this project run
 ```bash
   npm run build
 ```
-Select your favorite hosting  platform for deployment
+Select your favorite hosting  platform for deployment.
 
 
 ## Tech Stack
 
 **Client:**
-* React with vite
-* Bootstrap
+- React with vite
+- Bootstrap
 
 
 
