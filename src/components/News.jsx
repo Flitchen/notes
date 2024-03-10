@@ -3,7 +3,7 @@ function News() {
     return (
         <div className='container mt-4'>
 
-            < div class="alert alert-info mt-3 text-center">
+{/*             < div class="alert alert-info mt-3 text-center">
                 There will be presentations of group assignments concerning Fundamentals of Artificial Intelligence immediately after mid-recess
             </div>
             < div class="alert alert-danger mt-3 text-center">
@@ -11,8 +11,9 @@ function News() {
             </div>
             < div class="alert alert-danger mt-3 text-center">
                 Deadline for submitting group assignment of Information System Management will be on <u>2<sup>nd</sup> June 2023</u>
-            </div>
-
+            </div> */}
+< div class=" mt-3 text-center">
+No news available            </div>
 
         </div>
     );
