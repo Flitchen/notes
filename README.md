@@ -11,55 +11,14 @@ ICTM-Notes is a web-based platform designed to centralize and organize study mat
 
 
 It allows students and class representatives to access and download notes, lectures, presentations, and other study resources categorized by course.
+## Features
 
-## Getting Started
-
-Visit [https://ictmnotes.netlify.app](https://ictmnotes.netlify.app/) to get access to the available studying materials.
-
-## Run Locally
-
-Clone the project
-
-```bash
-  git clone https://github.com/Flitchen/notes.git
-```
-
-Go to the project directory
-
-```bash
-  cd notes
-```
-
-Install dependencies
-
-```bash
-  npm install
-```
-
-Start the local development server
-
-```bash
-  npm run dev
-```
-
-
-## Deployment
-
-To deploy this project run
-
-```bash
-  npm run build
-```
-Select your favorite hosting  platform for deployment.
-
-
+- Material Organization: Categorize and store study materials for easy access.
+- Download Functionality: Enable students to download resources in formats such as DOC, PDF, and PPT.
+- Responsive Design: Optimized for all devices using Bootstrap for styling.
+- Quick Performance: Built with Vite for faster loading and development.
 ## Tech Stack
 
-**Client:**
-- React with vite
-- Bootstrap
-
-
-
-
-
+- React: For building the user interface.
+- Vite: For faster builds and optimized performance.
+- Bootstrap: For responsive and modern UI design.
